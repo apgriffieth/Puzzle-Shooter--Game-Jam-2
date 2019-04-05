@@ -1,0 +1,2 @@
+# Puzzle-Shooter--Game-Jam-2
+In this Game Jam, our team was tasked with making an FPS game with a puzzle element. For our game, we task the player with navigating through numerous levels as colored walls push them back. In order to pass through the colored walls, the player must shoot the walls with a bullet the same color. The levels feature many different environments including low-light, mazes, and more! //CONRTOLS:
